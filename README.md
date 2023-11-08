@@ -58,4 +58,4 @@ Alif Jakir and Ryan Tran's experiments with OpenAI Assistants
     - Map out environment parameterization
     - Generate 3D Assets: https://developer.nvidia.com/blog/rapidly-generate-3d-assets-for-virtual-worlds-with-generative-ai/
     - AI Images to Meshes for Content Synthesis Pipeline (https://www.youtube.com/watch?v=tBLk4roDTCQ)
-    
+
